@@ -1,0 +1,9 @@
+env
+app/__pycache__
+app/.env
+app/database/__pycache__
+app/helpers/__pycache__
+app/repository/__pycache__
+app/repository/__init__.py
+app/routers/__pycache__
+app/routers/__init__.py
