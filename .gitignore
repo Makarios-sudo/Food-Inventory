@@ -3,6 +3,7 @@ app/__pycache__
 app/.env
 app/database/__pycache__
 app/helpers/__pycache__
+app/helpers/__init__.py
 app/repository/__pycache__
 app/repository/__init__.py
 app/routers/__pycache__
